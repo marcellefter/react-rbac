@@ -1,0 +1,27 @@
+{
+  "name": "react-rbac",
+  "version": "1.0.0",
+  "description": "Role-based access control for React applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcellefter/react-rbac.git"
+  },
+  "keywords": [
+    "RBAC",
+    "permissions",
+    "roles",
+    "role-based",
+    "react",
+    "permissions"
+  ],
+  "author": "Marcel Lefter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcellefter/react-rbac/issues"
+  },
+  "homepage": "https://github.com/marcellefter/react-rbac#readme"
+}
