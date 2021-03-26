@@ -1,6 +1,6 @@
 {
   "name": "react-rbac",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Role-based access control for React applications",
   "main": "index.js",
   "scripts": {
